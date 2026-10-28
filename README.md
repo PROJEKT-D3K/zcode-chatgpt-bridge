@@ -1,6 +1,4 @@
-# While ZCode has made its announcement on this issue, I will still not maintain this project.
 
-## Since ZCode was caught uploading workspace/.git records to the cloud silently, anyone using should not using ZCode for data security and privacy. This project will not be updated or maintained further.
 
 # ZCode ChatGPT Bridge
 
